@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nidea.app.selfiethief.MainActivity" >
+
+    <item
+        android:id="@+id/action_rateus"
+        android:orderInCategory="100"
+        android:title="@string/action_rateus"
+        android:icon="@drawable/rateus"
+        app:showAsAction="always"/>
+     <item
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="@string/action_share"
+        android:icon="@drawable/share"
+        app:showAsAction="always"/>
+      <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:title="@string/action_delete"
+        android:icon="@drawable/delete"
+        app:showAsAction="always"/>
+
+</menu>

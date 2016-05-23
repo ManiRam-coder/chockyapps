@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selfiethief</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_rateus">Rate Us</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="rate">Rate Us</string>
+    <string name="about">About Us</string>
+    <string name="folder_name">.selfiethief</string>
+    <string name="active">Active</string>
+    <string name="yourname">Enter your Name</string>
+    <string name="name">Name</string>
+    <string name="mailid">Email Id</string>
+    <string name="mobileno">Alternate Mobile #</string>
+    <string name="yourmobileno">Enter Alternate Mobile #</string>
+    <string name="yourmailid">Enter your Mail Id</string>
+    <string name="attempt">No of Attempts</string>
+    <string name="powered_by">POWERED BY nIDEA Technologies</string>
+    <string name="title_activity_ad">AdActivity</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <!-- AdMob ad unit IDs -->
+    <string name="interstitial_full_screen_app_id">ca-app-pub-4642902206091763~8111981132</string>
+    <string name="interstitial_full_screen_ad_unit">ca-app-pub-4642902206091763/7529898336</string>
+
+</resources>
